@@ -29,18 +29,18 @@
 
 ## 📞 Мои контакты:
 
-<div align="center">
+<div align="left">
  <a href="https://t.me/stanken_a"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
  <a href="mailto:artyemst3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://wa.me/79811876344"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
   
 ## 📊 Статистика:
-<p align="center">
+<p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=stankenA&theme=prussian&hide_border=false&include_all_commits=false&count_private=false">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stankenA&theme=prussian&hide_border=false">
 </p>
-<p align="center">
+<p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stankenA&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
