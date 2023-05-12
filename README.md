@@ -36,6 +36,7 @@
 </div>
   
 ## 📊 Статистика:
+<img src="https://www.codewars.com/users/stanken_a/badges/large">
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=stankenA&theme=prussian&hide_border=false&include_all_commits=false&count_private=false">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stankenA&theme=prussian&hide_border=false">
